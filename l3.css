@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-color: cadetblue;
+}
+p::first-letter{
+    font-size: 60px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+button{
+    background-color: burlywood;
+    border-radius: 14px;
+    width: 120px;
+    height: 65px;
+}
+button:hover{
+    color: black;
+    font-size: 10px;
+    background-color: antiquewhite;
+}
+ul li:nth-child(1){
+   background-color: rgb(129, 7, 7);
+}
+h3+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: chocolate;
+}
