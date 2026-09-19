@@ -1,0 +1,19 @@
+body{
+    background-color: burlywood;
+}
+h1{
+    background-color: cadetblue;
+    padding: 10px;
+    margin-left: 50px;
+    width: 70px;
+    margin-top: 45px;
+    border: 4px double lightgreen;
+}
+button{
+    margin-left: 70px;
+    margin-top: 40px;
+    background-color: rgb(172, 204, 204);
+    height: 70px;
+    width: 80px;
+    border: 4px dotted blanchedalmond;
+}
